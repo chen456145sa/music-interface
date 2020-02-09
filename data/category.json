@@ -1,0 +1,47 @@
+{
+    "status": "0",
+	"list": [
+        {
+            "id": 1,
+            "img_url": "http://p.qpic.cn/music_cover/PiajxSqBRaEISibhtdxpkLprufpT7OzywmaqswkO73oqwhKaGbtQOc1A/300?n=1",
+            "title": "欢快",
+            "tag": "happy"
+        },
+        {
+            "id": 2,
+            "img_url": "https://p.qpic.cn/music_cover/PiajxSqBRaEISibhtdxpkLprufpT7OzywmaqswkO73oqwhKaGbtQOc1A/300?n=1",
+            "title": "安静",
+            "tag": "peaceful"
+        },
+        {
+            "id": 3,
+            "img_url": "https://p.qpic.cn/music_cover/PiajxSqBRaEISibhtdxpkLprufpT7OzywmaqswkO73oqwhKaGbtQOc1A/300?n=1",
+            "title": "电音",
+            "tag": "Electric sound"
+        },
+        {
+            "id": 4,
+            "img_url": "https://p.qpic.cn/music_cover/PiajxSqBRaEISibhtdxpkLprufpT7OzywmaqswkO73oqwhKaGbtQOc1A/300?n=1",
+            "title": "轻音乐",
+            "tag": "Light music"
+        },
+        {
+            "id": 5,
+            "img_url": "https://p.qpic.cn/music_cover/PiajxSqBRaEISibhtdxpkLprufpT7OzywmaqswkO73oqwhKaGbtQOc1A/300?n=1",
+            "title": "英文",
+            "tag": "English"
+        },
+        {
+            "id": 6,
+            "img_url": "https://p.qpic.cn/music_cover/PiajxSqBRaEISibhtdxpkLprufpT7OzywmaqswkO73oqwhKaGbtQOc1A/300?n=1",
+            "title": "日文",
+            "tag": "Japanese"
+        },
+        {
+            "id": 7,
+            "img_url": "https://p.qpic.cn/music_cover/PiajxSqBRaEISibhtdxpkLprufpT7OzywmaqswkO73oqwhKaGbtQOc1A/300?n=1",
+            "title": "韩文",
+            "tag": "Korean"
+        }  
+    ]
+}

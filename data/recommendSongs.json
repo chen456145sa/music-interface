@@ -1,0 +1,935 @@
+{
+ "songlist": [
+     {
+        "id": 0,
+        "songs": [
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "15",
+                "song_name": "喜剧之王",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/喜剧之王.mp3",
+                "album": "李荣浩",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "喜剧之王.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "16",
+                "song_name": "作曲家",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/作曲家.mp3",
+                "album": "作曲家",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "作曲家.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "17",
+                "song_name": "年少有为",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/年少有为.mp3",
+                "album": "耳朵",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "年少有为.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "20",
+                "song_name": "晴天",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/晴天.mp3",
+                "album": "叶惠美",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "晴天.txt"
+            }
+        ]
+     },
+     {
+        "id": 1,
+        "songs": [
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "15",
+                "song_name": "喜剧之王",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/喜剧之王.mp3",
+                "album": "李荣浩",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "喜剧之王.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "16",
+                "song_name": "作曲家",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/作曲家.mp3",
+                "album": "作曲家",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "作曲家.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "17",
+                "song_name": "年少有为",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/年少有为.mp3",
+                "album": "耳朵",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "年少有为.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "20",
+                "song_name": "晴天",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/晴天.mp3",
+                "album": "叶惠美",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "晴天.txt"
+            }
+        ]
+     },
+     {
+        "id": 2,
+        "songs": [
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "15",
+                "song_name": "喜剧之王",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/喜剧之王.mp3",
+                "album": "李荣浩",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "喜剧之王.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "16",
+                "song_name": "作曲家",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/作曲家.mp3",
+                "album": "作曲家",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "作曲家.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "17",
+                "song_name": "年少有为",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/年少有为.mp3",
+                "album": "耳朵",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "年少有为.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "20",
+                "song_name": "晴天",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/晴天.mp3",
+                "album": "叶惠美",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "晴天.txt"
+            }
+        ]
+     },
+     {
+        "id": 3,
+        "songs": [
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "15",
+                "song_name": "喜剧之王",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/喜剧之王.mp3",
+                "album": "李荣浩",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "喜剧之王.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "16",
+                "song_name": "作曲家",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/作曲家.mp3",
+                "album": "作曲家",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "作曲家.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "17",
+                "song_name": "年少有为",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/年少有为.mp3",
+                "album": "耳朵",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "年少有为.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "20",
+                "song_name": "晴天",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/晴天.mp3",
+                "album": "叶惠美",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "晴天.txt"
+            }
+        ]
+     },
+     {
+        "id": 4,
+        "songs": [
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "15",
+                "song_name": "喜剧之王",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/喜剧之王.mp3",
+                "album": "李荣浩",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "喜剧之王.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "16",
+                "song_name": "作曲家",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/作曲家.mp3",
+                "album": "作曲家",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "作曲家.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "17",
+                "song_name": "年少有为",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/年少有为.mp3",
+                "album": "耳朵",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "年少有为.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "20",
+                "song_name": "晴天",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/晴天.mp3",
+                "album": "叶惠美",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "晴天.txt"
+            }
+        ]
+     },
+     {
+        "id": 5,
+        "songs": [
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "12",
+                "song_name": "倒数",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                "album": "另一个童话",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "倒数.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "13",
+                "song_name": "光年之外",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                "album": "光年之外",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "光年之外.txt"
+            },
+            {
+                "singer_id": 13948,
+                "song_id": "14",
+                "song_name": "来自天堂的魔鬼",
+                "singer_name": "邓紫棋",
+                "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                "album": "新的心跳",
+                "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                "songlrc": "来自天堂的魔鬼.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "15",
+                "song_name": "喜剧之王",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/喜剧之王.mp3",
+                "album": "李荣浩",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "喜剧之王.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "16",
+                "song_name": "作曲家",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/作曲家.mp3",
+                "album": "作曲家",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "作曲家.txt"
+            },
+            {
+                "singer_id": 60505,
+                "song_id": "17",
+                "song_name": "年少有为",
+                "singer_name": "李荣浩",
+                "song_url": "http://localhost:8888/public/songs/年少有为.mp3",
+                "album": "耳朵",
+                "photo": "http://localhost:8888/public/singerImages/lrh.jpg",
+                "songlrc": "年少有为.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "20",
+                "song_name": "晴天",
+                "singer_name": "周杰伦",
+                "song_url": "http://localhost:8888/public/songs/晴天.mp3",
+                "album": "叶惠美",
+                "photo": "http://localhost:8888/public/singerImages/zjl.jpg",
+                "songlrc": "晴天.txt"
+            }
+        ]
+     }
+
+ ]   
+}

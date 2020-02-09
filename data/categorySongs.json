@@ -1,0 +1,459 @@
+{
+    "songlist": [
+        {
+           "id": 1,
+           "tag": "happy",
+           "img_url":"https://p.qpic.cn/music_cover/ofvVjDjXgDHsRX5ZJyfEBE98giaQYsmxw06yxRe87lnefCXQq21rDFQ/300?n=1",
+           "disc":"抖腿抖不停",
+           "title": "邓紫棋专场",
+           "creator": "Mir.bb",
+           "songs": [
+               {
+                   "singer_id": 13948,
+                   "song_id": "12",
+                   "song_name": "倒数",
+                   "singer_name": "邓紫棋",
+                   "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                   "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                   "songlrc": "倒数.txt"
+               },
+               {
+                   "singer_id": 13948,
+                   "song_id": "13",
+                   "song_name": "光年之外",
+                   "singer_name": "邓紫棋",
+                   "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                   "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                   "songlrc": "光年之外.txt"
+               },
+               {
+                   "singer_id": 13948,
+                   "song_id": "14",
+                   "song_name": "来自天堂的魔鬼",
+                   "singer_name": "邓紫棋",
+                   "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                   "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                   "songlrc": "来自天堂的魔鬼.txt"
+               },
+               {
+                    "singer_id": 13948,
+                    "song_id": "12",
+                    "song_name": "倒数",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "倒数.txt"
+                },
+                {
+                    "singer_id": 13948,
+                    "song_id": "13",
+                    "song_name": "光年之外",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "光年之外.txt"
+                },
+                {
+                    "singer_id": 13948,
+                    "song_id": "14",
+                    "song_name": "来自天堂的魔鬼",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "来自天堂的魔鬼.txt"
+                },
+                {
+                    "singer_id": 13948,
+                    "song_id": "12",
+                    "song_name": "倒数",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "倒数.txt"
+                },
+                {
+                    "singer_id": 13948,
+                    "song_id": "13",
+                    "song_name": "光年之外",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "光年之外.txt"
+                },
+                {
+                    "singer_id": 13948,
+                    "song_id": "14",
+                    "song_name": "来自天堂的魔鬼",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "来自天堂的魔鬼.txt"
+                }
+           ]
+        },
+        {
+            "id": 2,
+            "tag": "happy",
+            "img_url":"https://p.qpic.cn/music_cover/ofvVjDjXgDHsRX5ZJyfEBE98giaQYsmxw06yxRe87lnefCXQq21rDFQ/300?n=1",
+            "disc":"抖腿抖不停",
+            "title": "邓紫棋专场",
+            "creator": "Mir.bb",
+            "songs": [
+                {
+                    "singer_id": 13948,
+                    "song_id": "12",
+                    "song_name": "倒数",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "倒数.txt"
+                },
+                {
+                    "singer_id": 13948,
+                    "song_id": "13",
+                    "song_name": "光年之外",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "光年之外.txt"
+                },
+                {
+                    "singer_id": 13948,
+                    "song_id": "14",
+                    "song_name": "来自天堂的魔鬼",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "来自天堂的魔鬼.txt"
+                },
+                {
+                     "singer_id": 13948,
+                     "song_id": "12",
+                     "song_name": "倒数",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "倒数.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "13",
+                     "song_name": "光年之外",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "光年之外.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "14",
+                     "song_name": "来自天堂的魔鬼",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "来自天堂的魔鬼.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "12",
+                     "song_name": "倒数",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "倒数.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "13",
+                     "song_name": "光年之外",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "光年之外.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "14",
+                     "song_name": "来自天堂的魔鬼",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "来自天堂的魔鬼.txt"
+                 }
+            ]
+         },
+         {
+            "id": 3,
+            "tag": "peaceful",
+            "img_url":"https://p.qpic.cn/music_cover/ofvVjDjXgDHsRX5ZJyfEBE98giaQYsmxw06yxRe87lnefCXQq21rDFQ/300?n=1",
+            "disc":"抖腿抖不停",
+            "title": "邓紫棋专场",
+            "creator": "Mir.bb",
+            "songs": [
+                {
+                    "singer_id": 13948,
+                    "song_id": "12",
+                    "song_name": "倒数",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "倒数.txt"
+                },
+                {
+                    "singer_id": 13948,
+                    "song_id": "13",
+                    "song_name": "光年之外",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "光年之外.txt"
+                },
+                {
+                    "singer_id": 13948,
+                    "song_id": "14",
+                    "song_name": "来自天堂的魔鬼",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "来自天堂的魔鬼.txt"
+                },
+                {
+                     "singer_id": 13948,
+                     "song_id": "12",
+                     "song_name": "倒数",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "倒数.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "13",
+                     "song_name": "光年之外",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "光年之外.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "14",
+                     "song_name": "来自天堂的魔鬼",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "来自天堂的魔鬼.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "12",
+                     "song_name": "倒数",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "倒数.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "13",
+                     "song_name": "光年之外",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "光年之外.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "14",
+                     "song_name": "来自天堂的魔鬼",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "来自天堂的魔鬼.txt"
+                 }
+            ]
+         },
+         {
+            "id": 4,
+            "tag": "happy",
+            "img_url":"https://p.qpic.cn/music_cover/ofvVjDjXgDHsRX5ZJyfEBE98giaQYsmxw06yxRe87lnefCXQq21rDFQ/300?n=1",
+            "disc":"抖腿抖不停",
+            "title": "邓紫棋专场",
+            "creator": "Mir.bb",
+            "songs": [
+                {
+                    "singer_id": 13948,
+                    "song_id": "12",
+                    "song_name": "倒数",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "倒数.txt"
+                },
+                {
+                    "singer_id": 13948,
+                    "song_id": "13",
+                    "song_name": "光年之外",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "光年之外.txt"
+                },
+                {
+                    "singer_id": 13948,
+                    "song_id": "14",
+                    "song_name": "来自天堂的魔鬼",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "来自天堂的魔鬼.txt"
+                },
+                {
+                     "singer_id": 13948,
+                     "song_id": "12",
+                     "song_name": "倒数",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "倒数.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "13",
+                     "song_name": "光年之外",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "光年之外.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "14",
+                     "song_name": "来自天堂的魔鬼",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "来自天堂的魔鬼.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "12",
+                     "song_name": "倒数",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "倒数.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "13",
+                     "song_name": "光年之外",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "光年之外.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "14",
+                     "song_name": "来自天堂的魔鬼",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "来自天堂的魔鬼.txt"
+                 }
+            ]
+         },
+         {
+            "id": 5,
+            "tag": "happy",
+            "img_url":"https://p.qpic.cn/music_cover/ofvVjDjXgDHsRX5ZJyfEBE98giaQYsmxw06yxRe87lnefCXQq21rDFQ/300?n=1",
+            "disc":"抖腿抖不停",
+            "title": "邓紫棋专场",
+            "creator": "Mir.bb",
+            "songs": [
+                {
+                    "singer_id": 13948,
+                    "song_id": "12",
+                    "song_name": "倒数",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "倒数.txt"
+                },
+                {
+                    "singer_id": 13948,
+                    "song_id": "13",
+                    "song_name": "光年之外",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "光年之外.txt"
+                },
+                {
+                    "singer_id": 13948,
+                    "song_id": "14",
+                    "song_name": "来自天堂的魔鬼",
+                    "singer_name": "邓紫棋",
+                    "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "songlrc": "来自天堂的魔鬼.txt"
+                },
+                {
+                     "singer_id": 13948,
+                     "song_id": "12",
+                     "song_name": "倒数",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "倒数.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "13",
+                     "song_name": "光年之外",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "光年之外.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "14",
+                     "song_name": "来自天堂的魔鬼",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "来自天堂的魔鬼.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "12",
+                     "song_name": "倒数",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "倒数.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "13",
+                     "song_name": "光年之外",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "光年之外.txt"
+                 },
+                 {
+                     "singer_id": 13948,
+                     "song_id": "14",
+                     "song_name": "来自天堂的魔鬼",
+                     "singer_name": "邓紫棋",
+                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "songlrc": "来自天堂的魔鬼.txt"
+                 }
+            ]
+         } 
+    ]   
+   }
