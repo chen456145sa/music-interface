@@ -16,6 +16,7 @@ const songs = require('./data/songs.json');
 const recommendSongs = require('./data/recommendSongs.json');
 const category = require('./data/category.json');
 const categorySongs = require('./data/categorySongs.json');
+const hotkey = require('./data/hotkey.json');
 const path =require('path');
 const fs = require('fs');
 
@@ -184,4 +185,78 @@ exports.getCategoryByTag =function(req,res) {
 	})
 	res.jsonp(arr);
 	// res.jsonp(category);
+}
+
+exports.getHotKey =function(req,res) {
+	res.jsonp(hotkey);
+}
+
+exports.getSearchList =function(req,res) {
+	let key = req.params.key;
+	let obj = {
+		singer: [],
+		song: []
+	};
+	singer2.singerlist.forEach(item => {
+		if(item.singer_name.indexOf(key)!=-1) {
+			// console.log(item)
+			obj.singer.push(item);
+		}
+	})
+	songs.songList.forEach(item => {
+		if(item.song_name.indexOf(key)!=-1 || item.singer_name.indexOf(key)!=-1) {
+			// console.log(item)
+			obj.song.push(item);
+		}
+	})
+	// console.log(obj)
+	res.jsonp(obj);
+}
+
+exports.getSearchList2 =function(req,res) {
+	let key = req.query.key;
+	let page = req.query.page;
+	let perpage = req.query.perpage;
+	let obj = {
+		singer: [],
+		song: []
+	};
+	console.log(page)
+	let singerArr = [];
+	let songArr = [];
+	singer2.singerlist.forEach(item => {
+		if(item.singer_name.indexOf(key)!=-1) {
+			singerArr.push(item);
+		}
+	})
+	songs.songList.forEach(item => {
+		if(item.song_name.indexOf(key)!=-1 || item.singer_name.indexOf(key)!=-1) {
+			songArr.push(item);
+		}
+	})
+	//裁决数组
+	singerArr.forEach((item,index) => {
+		if(page == 1) {
+			if(index<perpage) {
+				obj.singer.push(item)
+			}
+		}else {
+			if(index>(page-1)*perpage&&index<page*perpage) {
+				obj.singer.push(item)
+			}
+		}	
+	})
+	songArr.forEach((item,index) => {
+		if(page == 1) {
+			if(index<perpage) {
+				obj.song.push(item)
+			}
+		}else {
+			if(index>(page-1)*perpage&&index<page*perpage) {
+				obj.song.push(item)
+			}
+		}	
+	})
+	// console.log(req.query)
+	res.jsonp(obj);
 }

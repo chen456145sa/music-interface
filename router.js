@@ -44,4 +44,10 @@ router.get('/category/getCategory',service.getCategory);
 
 router.get('/category/getCategoryByTag/:tag',service.getCategoryByTag);
 
+router.get('/search/getHotKey',service.getHotKey);
+
+router.get('/search/searchList/:key',service.getSearchList);
+
+router.get('/search/searchList2',service.getSearchList2);
+
 module.exports = router;
