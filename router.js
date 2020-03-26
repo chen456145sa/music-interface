@@ -50,4 +50,5 @@ router.get('/search/searchList/:key',service.getSearchList);
 
 router.get('/search/searchList2',service.getSearchList2);
 
+router.get('/collection/:id',service.getSongById);
 module.exports = router;

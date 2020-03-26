@@ -260,3 +260,15 @@ exports.getSearchList2 =function(req,res) {
 	// console.log(req.query)
 	res.jsonp(obj);
 }
+
+exports.getSongById = function(req,res) {
+	let id = req.params.id;
+	let song = {};
+	songs.songList.forEach(element => {
+		if(element.song_id == id) {
+			song = element
+		}
+	});
+	res.jsonp(song);
+
+}
