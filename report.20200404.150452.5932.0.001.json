@@ -1,0 +1,362 @@
+
+{
+  "header": {
+    "reportVersion": 1,
+    "event": "Allocation failed - JavaScript heap out of memory",
+    "trigger": "FatalError",
+    "filename": "report.20200404.150452.5932.0.001.json",
+    "dumpEventTime": "2020-04-04T15:04:53Z",
+    "dumpEventTimeStamp": "1585983893775",
+    "processId": 5932,
+    "cwd": "F:\\网页开发\\项目2\\网页开发\\项目\\快音乐\\music-interface",
+    "commandLine": [
+      "node",
+      "index.js"
+    ],
+    "nodejsVersion": "v12.13.1",
+    "wordSize": 64,
+    "arch": "x64",
+    "platform": "win32",
+    "componentVersions": {
+      "node": "12.13.1",
+      "v8": "7.7.299.13-node.16",
+      "uv": "1.33.1",
+      "zlib": "1.2.11",
+      "brotli": "1.0.7",
+      "ares": "1.15.0",
+      "modules": "72",
+      "nghttp2": "1.39.2",
+      "napi": "5",
+      "llhttp": "1.1.4",
+      "http_parser": "2.8.0",
+      "openssl": "1.1.1d",
+      "cldr": "35.1",
+      "icu": "64.2",
+      "tz": "2019c",
+      "unicode": "12.1"
+    },
+    "release": {
+      "name": "node",
+      "lts": "Erbium",
+      "headersUrl": "https://nodejs.org/download/release/v12.13.1/node-v12.13.1-headers.tar.gz",
+      "sourceUrl": "https://nodejs.org/download/release/v12.13.1/node-v12.13.1.tar.gz",
+      "libUrl": "https://nodejs.org/download/release/v12.13.1/win-x64/node.lib"
+    },
+    "osName": "Windows_NT",
+    "osRelease": "10.0.18363",
+    "osVersion": "Windows 10 Pro",
+    "osMachine": "x86_64",
+    "cpus": [
+      {
+        "model": "Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz",
+        "speed": 2304,
+        "user": 13533281,
+        "nice": 0,
+        "sys": 9005546,
+        "idle": 94634703,
+        "irq": 2646062
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz",
+        "speed": 2304,
+        "user": 17484671,
+        "nice": 0,
+        "sys": 4677046,
+        "idle": 95011406,
+        "irq": 296171
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz",
+        "speed": 2304,
+        "user": 18271484,
+        "nice": 0,
+        "sys": 4048343,
+        "idle": 94853296,
+        "irq": 165296
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz",
+        "speed": 2304,
+        "user": 21272921,
+        "nice": 0,
+        "sys": 3752984,
+        "idle": 92147218,
+        "irq": 108578
+      }
+    ],
+    "networkInterfaces": [
+      {
+        "name": "WLAN",
+        "internal": false,
+        "mac": "80:a5:89:78:75:69",
+        "address": "fe80::c134:d8b0:60e9:e696",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "scopeid": 4
+      },
+      {
+        "name": "WLAN",
+        "internal": false,
+        "mac": "80:a5:89:78:75:69",
+        "address": "192.168.0.109",
+        "netmask": "255.255.255.0",
+        "family": "IPv4"
+      },
+      {
+        "name": "Loopback Pseudo-Interface 1",
+        "internal": true,
+        "mac": "00:00:00:00:00:00",
+        "address": "::1",
+        "netmask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+        "family": "IPv6",
+        "scopeid": 0
+      },
+      {
+        "name": "Loopback Pseudo-Interface 1",
+        "internal": true,
+        "mac": "00:00:00:00:00:00",
+        "address": "127.0.0.1",
+        "netmask": "255.0.0.0",
+        "family": "IPv4"
+      }
+    ],
+    "host": "DESKTOP-5BHPOLV"
+  },
+  "javascriptStack": {
+    "message": "No stack.",
+    "stack": [
+      "Unavailable."
+    ]
+  },
+  "nativeStack": [
+    {
+      "pc": "0x00007ff6173e1729",
+      "symbol": "std::basic_ostream<char,std::char_traits<char> >::operator<<+10873"
+    },
+    {
+      "pc": "0x00007ff6173e5b4c",
+      "symbol": "std::basic_ostream<char,std::char_traits<char> >::operator<<+28316"
+    },
+    {
+      "pc": "0x00007ff6173e4b08",
+      "symbol": "std::basic_ostream<char,std::char_traits<char> >::operator<<+24152"
+    },
+    {
+      "pc": "0x00007ff6174d369b",
+      "symbol": "v8::base::CPU::has_sse+37723"
+    },
+    {
+      "pc": "0x00007ff617cd82de",
+      "symbol": "v8::Isolate::ReportExternalAllocationLimitReached+94"
+    },
+    {
+      "pc": "0x00007ff617cc0321",
+      "symbol": "v8::SharedArrayBuffer::Externalize+833"
+    },
+    {
+      "pc": "0x00007ff617b8dbec",
+      "symbol": "v8::internal::Heap::EphemeronKeyWriteBarrierFromCode+1436"
+    },
+    {
+      "pc": "0x00007ff617ba3c0d",
+      "symbol": "v8::internal::Factory::AllocateRawFixedArray+61"
+    },
+    {
+      "pc": "0x00007ff617baafc4",
+      "symbol": "v8::internal::Factory::NewFixedArrayWithFiller+52"
+    },
+    {
+      "pc": "0x00007ff617baaf81",
+      "symbol": "v8::internal::Factory::NewUninitializedFixedArray+65"
+    },
+    {
+      "pc": "0x00007ff617a8bdaf",
+      "symbol": "v8::Object::GetIsolate+6767"
+    },
+    {
+      "pc": "0x00007ff61793f13a",
+      "symbol": "v8::internal::OrderedHashMap::ValueAt+61274"
+    },
+    {
+      "pc": "0x00007ff61810404d",
+      "symbol": "v8::internal::SetupIsolateDelegate::SetupHeap+567949"
+    },
+    {
+      "pc": "0x0000006bdd60fba8",
+      "symbol": ""
+    }
+  ],
+  "javascriptHeap": {
+    "totalMemory": 942170112,
+    "totalCommittedMemory": 942170112,
+    "usedMemory": 923126664,
+    "availableMemory": 1273332088,
+    "memoryLimit": 2197815296,
+    "heapSpaces": {
+      "read_only_space": {
+        "memorySize": 262144,
+        "committedMemory": 262144,
+        "capacity": 261872,
+        "used": 32296,
+        "available": 229576
+      },
+      "new_space": {
+        "memorySize": 33554432,
+        "committedMemory": 33554432,
+        "capacity": 16759808,
+        "used": 16062288,
+        "available": 697520
+      },
+      "old_space": {
+        "memorySize": 4304896,
+        "committedMemory": 4304896,
+        "capacity": 3490760,
+        "used": 3490760,
+        "available": 0
+      },
+      "code_space": {
+        "memorySize": 425984,
+        "committedMemory": 425984,
+        "capacity": 192704,
+        "used": 192704,
+        "available": 0
+      },
+      "map_space": {
+        "memorySize": 528384,
+        "committedMemory": 528384,
+        "capacity": 309840,
+        "used": 309840,
+        "available": 0
+      },
+      "large_object_space": {
+        "memorySize": 903045120,
+        "committedMemory": 903045120,
+        "capacity": 903035224,
+        "used": 903035224,
+        "available": 0
+      },
+      "code_large_object_space": {
+        "memorySize": 49152,
+        "committedMemory": 49152,
+        "capacity": 3552,
+        "used": 3552,
+        "available": 0
+      },
+      "new_large_object_space": {
+        "memorySize": 0,
+        "committedMemory": 0,
+        "capacity": 16759808,
+        "used": 0,
+        "available": 16759808
+      }
+    }
+  },
+  "resourceUsage": {
+    "userCpuSeconds": 6.156,
+    "kernelCpuSeconds": 1.343,
+    "cpuConsumptionPercent": 35.7095,
+    "maxRss": 1563815936,
+    "pageFaults": {
+      "IORequired": 687311,
+      "IONotRequired": 0
+    },
+    "fsActivity": {
+      "reads": 142,
+      "writes": 5
+    }
+  },
+  "libuv": [
+  ],
+  "environmentVariables": {
+    "=::": "::\\",
+    "=C:": "C:\\",
+    "=ExitCode": "C000013A",
+    "=F:": "F:\\网页开发\\项目2\\网页开发\\项目\\快音乐\\music-interface",
+    "ALLUSERSPROFILE": "C:\\ProgramData",
+    "APPDATA": "C:\\Users\\ASUS\\AppData\\Roaming",
+    "CommonProgramFiles": "C:\\Program Files\\Common Files",
+    "CommonProgramFiles(x86)": "C:\\Program Files (x86)\\Common Files",
+    "CommonProgramW6432": "C:\\Program Files\\Common Files",
+    "COMPUTERNAME": "DESKTOP-5BHPOLV",
+    "ComSpec": "C:\\Windows\\system32\\cmd.exe",
+    "DriverData": "C:\\Windows\\System32\\Drivers\\DriverData",
+    "FPS_BROWSER_APP_PROFILE_STRING": "Internet Explorer",
+    "FPS_BROWSER_USER_PROFILE_STRING": "Default",
+    "HOMEDRIVE": "C:",
+    "HOMEPATH": "\\Users\\ASUS",
+    "LOCALAPPDATA": "C:\\Users\\ASUS\\AppData\\Local",
+    "LOGONSERVER": "\\\\DESKTOP-5BHPOLV",
+    "NUMBER_OF_PROCESSORS": "4",
+    "OneDrive": "C:\\Users\\ASUS\\OneDrive",
+    "OS": "Windows_NT",
+    "Path": "C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;F:\\node\\;C:\\Users\\ASUS\\AppData\\Local\\Microsoft\\WindowsApps;F:\\Bandizip\\;C:\\Users\\ASUS\\AppData\\Roaming\\npm;F:\\网页开发\\Microsoft VS Code\\Microsoft VS Code\\bin",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+    "PROCESSOR_ARCHITECTURE": "AMD64",
+    "PROCESSOR_IDENTIFIER": "Intel64 Family 6 Model 94 Stepping 3, GenuineIntel",
+    "PROCESSOR_LEVEL": "6",
+    "PROCESSOR_REVISION": "5e03",
+    "ProgramData": "C:\\ProgramData",
+    "ProgramFiles": "C:\\Program Files",
+    "ProgramFiles(x86)": "C:\\Program Files (x86)",
+    "ProgramW6432": "C:\\Program Files",
+    "PROMPT": "$P$G",
+    "PSModulePath": "C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules",
+    "PUBLIC": "C:\\Users\\Public",
+    "SESSIONNAME": "Console",
+    "SystemDrive": "C:",
+    "SystemRoot": "C:\\Windows",
+    "TEMP": "C:\\Users\\ASUS\\AppData\\Local\\Temp",
+    "TMP": "C:\\Users\\ASUS\\AppData\\Local\\Temp",
+    "USERDOMAIN": "DESKTOP-5BHPOLV",
+    "USERDOMAIN_ROAMINGPROFILE": "DESKTOP-5BHPOLV",
+    "USERNAME": "ASUS",
+    "USERPROFILE": "C:\\Users\\ASUS",
+    "windir": "C:\\Windows"
+  },
+  "sharedObjects": [
+    "F:\\node\\node.exe",
+    "C:\\Windows\\SYSTEM32\\ntdll.dll",
+    "C:\\Windows\\System32\\KERNEL32.DLL",
+    "C:\\Windows\\System32\\KERNELBASE.dll",
+    "C:\\Windows\\System32\\WS2_32.dll",
+    "C:\\Windows\\System32\\RPCRT4.dll",
+    "C:\\Windows\\SYSTEM32\\dbghelp.dll",
+    "C:\\Windows\\System32\\ADVAPI32.dll",
+    "C:\\Windows\\System32\\ucrtbase.dll",
+    "C:\\Windows\\System32\\msvcrt.dll",
+    "C:\\Windows\\System32\\sechost.dll",
+    "C:\\Windows\\System32\\USER32.dll",
+    "C:\\Windows\\System32\\win32u.dll",
+    "C:\\Windows\\System32\\GDI32.dll",
+    "C:\\Windows\\System32\\gdi32full.dll",
+    "C:\\Windows\\System32\\msvcp_win.dll",
+    "C:\\Windows\\System32\\PSAPI.DLL",
+    "C:\\Windows\\System32\\CRYPT32.dll",
+    "C:\\Windows\\System32\\MSASN1.dll",
+    "C:\\Windows\\System32\\bcrypt.dll",
+    "C:\\Windows\\SYSTEM32\\IPHLPAPI.DLL",
+    "C:\\Windows\\SYSTEM32\\USERENV.dll",
+    "C:\\Windows\\System32\\profapi.dll",
+    "C:\\Windows\\SYSTEM32\\WINMM.dll",
+    "C:\\Windows\\SYSTEM32\\WINMMBASE.dll",
+    "C:\\Windows\\System32\\cfgmgr32.dll",
+    "C:\\Windows\\System32\\bcryptPrimitives.dll",
+    "C:\\Windows\\System32\\IMM32.DLL",
+    "C:\\Windows\\System32\\powrprof.dll",
+    "C:\\Windows\\System32\\UMPDC.dll",
+    "C:\\Windows\\SYSTEM32\\CRYPTBASE.DLL",
+    "C:\\Windows\\system32\\uxtheme.dll",
+    "C:\\Windows\\System32\\combase.dll",
+    "C:\\Windows\\system32\\mswsock.dll",
+    "C:\\Windows\\System32\\kernel.appcore.dll",
+    "C:\\Windows\\System32\\NSI.dll",
+    "C:\\Windows\\SYSTEM32\\dhcpcsvc6.DLL",
+    "C:\\Windows\\SYSTEM32\\dhcpcsvc.DLL",
+    "C:\\Windows\\SYSTEM32\\DNSAPI.dll",
+    "C:\\Windows\\system32\\napinsp.dll",
+    "C:\\Windows\\system32\\pnrpnsp.dll",
+    "C:\\Windows\\System32\\winrnr.dll",
+    "C:\\Windows\\system32\\NLAapi.dll",
+    "C:\\Windows\\system32\\wshbth.dll"
+  ]
+}

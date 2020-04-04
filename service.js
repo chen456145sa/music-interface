@@ -17,6 +17,7 @@ const recommendSongs = require('./data/recommendSongs.json');
 const category = require('./data/category.json');
 const categorySongs = require('./data/categorySongs.json');
 const hotkey = require('./data/hotkey.json');
+const reclist = require('./data/reclist.json');
 const path =require('path');
 const fs = require('fs');
 
@@ -271,4 +272,29 @@ exports.getSongById = function(req,res) {
 	});
 	res.jsonp(song);
 
+}
+
+exports.getRecList =function(req,res) {
+	let number = req.query.number;
+	let tagGroup = req.query.tagGroup;
+	let recArray = [];
+	console.log(tagGroup)
+	// var rectemp = [...reclist.list];
+	let rectemp = JSON.parse(JSON.stringify(reclist.list))  //数组复制（引用地址不同）
+	rectemp.forEach((item,index)=> {
+		if(tagGroup.indexOf(item.tag)>-1) {
+			var i = 0;
+			while(i< number) {
+				//随机取一个元素
+				if(item.list.length>=1) {
+					recArray.push(item.list.splice( Math.floor(Math.random()*item.list.length), 1)[0]);
+				}
+				i++;
+			}
+			// console.log(item.tag)
+			// console.log(item.list)
+		}
+	})
+	console.log(recArray)
+	res.jsonp(recArray);
 }

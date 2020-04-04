@@ -1,0 +1,216 @@
+{
+    "status": "0",
+	"list": [
+        {
+            "tag": "peaceful",
+            "list": [
+                {	
+                    "id": 1,
+                    "title": "每日好心情、安静",
+                    "tag": "peaceful",
+                    "topTag": "安静",
+                    "dissname": "每日好心情,每天都是晴天每日好心情...",
+                    "img_url": "https://p.qpic.cn/music_cover/3MLTH2k3HibTypyQfrdDcnGebkBvAbETgYfDfSXIQXQq0vibiauWnP1Fg/300?n=1"
+                },
+                {	
+                    "id": 2,
+                    "title": "每日好心情、安静",
+                    "tag": "peaceful",
+                    "topTag": "安静",
+                    "dissname": "催眠宝宝：妈妈们的哄睡歌单",
+                    "img_url": "https://p.qpic.cn/music_cover/xFPOwViasjDrpIibGzHvkZKnnaia4uXzBM90iaY18Ck666ShBDVea8yBYA/300?n=1"
+                },
+                {	
+                    "id": 3,
+                    "title": "每日好心情、安静",
+                    "tag": "peaceful",
+                    "topTag": "安静",
+                    "dissname": "跟自己说晚安，天总是会亮的",
+                    "img_url": "https://p.qpic.cn/music_cover/JwclnudaObJXGgJOkTPBGTRtaImDhjibxnXic5fRwcKax3T4bmyQtcLg/300?n=1"
+                },
+                {	
+                    "id": 4,
+                    "title": "每日好心情、安静",
+                    "tag": "peaceful",
+                    "topTag": "安静",
+                    "dissname": "忘忧纯音 · 沦陷静谧雨中",
+                    "img_url": "https://p.qpic.cn/music_cover/rn9BBETnfKkicngmibIAtUlZDoF6FwJuzKE6h9hQMziaYGj1gcoyW7lBA/300?n=1"
+                },
+                {	
+                    "id": 5,
+                    "title": "每日好心情、安静",
+                    "tag": "peaceful",
+                    "topTag": "安静",
+                    "dissname": "沉浸字符间：学习专用纯音",
+                    "img_url": "https://p.qpic.cn/music_cover/XwPP705UMAGah57j9JU3rcVCbCyYjk3v62SZziaokCrqicvaIbETv4bg/300?n=1"
+                },
+                {	
+                    "id": 6,
+                    "title": "每日好心情、安静",
+                    "tag": "peaceful",
+                    "topTag": "安静",
+                    "dissname": "【治愈】给心灵一个宁静港湾",
+                    "img_url": "https://p.qpic.cn/music_cover/bglUEFSMMhA3eiblfHXvQROOLDVIEgUSJAyy1bsDrobzvuDwSbmYyaQ/300?n=1"
+                }
+            ]
+        },
+        {
+            "tag": "happy",
+            "list": [
+                {	
+                    "id": 7,
+                    "title": "欢快华语 · 夏日的调味包",
+                    "tag": "happy",
+                    "topTag": "欢快",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/AhbCa0vazSRDjEJhYwthgsSbN5oKI78QV4Vf82n6wxyPhWaAY7JFcg/300?n=1"
+                },
+                {	
+                    "id": 8,
+                    "title": "清晨元气弹 · 猪猪女孩起床铃",
+                    "tag": "happy",
+                    "topTag": "欢快",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/ibt11bicUZU9pTMSJt7FGNzQiaswK0OhJhvRnH45O2I3Z6rqibMFWGJ7wQ/300?n=1"
+                },
+                {	
+                    "id": 9,
+                    "title": "禁止想象 · 耳机里的万种风情",
+                    "tag": "happy",
+                    "topTag": "欢快",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/rn9BBETnfKkicngmibIAtUlapGxncrvIQkWn1Y3wibtSxPhNMdf36yMRQ/300?n=1"
+                },
+                {	
+                    "id": 10,
+                    "title": "绝妙女声： 万物皆甜",
+                    "tag": "happy",
+                    "topTag": "欢快",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/z5D0wytPKWngLmpCOFgNJgVCo5erELPACgKfY0NsrYZsPxnrriaiapbQ/300?n=1"
+                },
+                {	
+                    "id": 11,
+                    "title": "动感可爱：幼儿园早操及常放曲目",
+                    "tag": "happy",
+                    "topTag": "欢快",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/xFPOwViasjDrpIibGzHvkZKnWO8o4YiaczDxQdxm9pbM852OyOF1AV98w/300?n=1"
+                },
+                {	
+                    "id": 12,
+                    "title": "假日派对｜欧美清凉小调",
+                    "tag": "happy",
+                    "topTag": "欢快",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/O9FbmkBn7CWyTWMfweTS58eAezmlKfCUibJNAqoz3SicgEVvyS1KzS4Q/300?n=1"
+                }
+            ]
+        },
+		{
+            "tag": "popular",
+            "list": [
+                {	
+                    "id": 13,
+                    "title": "华语女声：深夜里的那丝温柔",
+                    "tag": "popular",
+                    "topTag": "流行",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/8eiaDBJ27yYicpMibYZmmEdNJ02LicspFpVRQ8GdDLwGDF6tEmx4niaLrCQ/300?n=1"
+                },
+                {	
+                    "id": 14,
+                    "title": "失恋独白 : 只是不够爱自己",
+                    "tag": "popular",
+                    "topTag": "流行",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/rn9BBETnfKkicngmibIAtUlTR1ADMF3K6yiaF7Z1AF96bYEhBV1STWXqw/300?n=1"
+                },
+                {	
+                    "id": 15,
+                    "title": "人生走在路上，愿你心花路放",
+                    "tag": "popular",
+                    "topTag": "流行",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/8eiaDBJ27yYicpMibYZmmEdNEPOTSqwhACUZBcduJU7vhBicnIVPbHlQGw/300?n=1"
+                },
+                {	
+                    "id": 16,
+                    "title": "Flow乐队动漫歌曲合集",
+                    "tag": "popular",
+                    "topTag": "流行",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/1A4uAkiamsicACoTtN0PhOGEZOvfQ67iciafseNvUUuIoiatm4aScq1KN6Q/300?n=1"
+                },
+                {	
+                    "id": 17,
+                    "title": "编辑推荐：粤语代表作",
+                    "tag": "popular",
+                    "topTag": "流行",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/1kicVrMEg0Fn1TyQ2yOZs3ZTp9gyvcRfy9QkvwLicuJIa2E5jGCyibiazA/300?n=1"
+                },
+                {	
+                    "id": 18,
+                    "title": "情歌三十首，抚慰寂寞心灵",
+                    "tag": "popular",
+                    "topTag": "流行",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/XwPP705UMAGah57j9JU3rcVCbCyYjk3v7g8hiao3pZpZaPvquzwNDfw/300?n=1"
+                }
+            ]
+        },
+		{
+            "tag": "Electric sound",
+            "list": [
+                {	
+                    "id": 19,
+                    "title": "每日好心情",
+                    "tag": "Electric sound",
+                    "topTag": "电音",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/D6A26HZDLQ0qFLlibkWzpjj9P943uOBuPibOgV2UpVQNL7EmSBgFKX7w/300?n=1"
+                }
+            ]
+        },
+		{
+            "tag": "Japanese",
+            "list": [
+                {	
+                    "id": 20,
+                    "title": "每日好心情",
+                    "tag": "Japanese",
+                    "topTag": "日语",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/G8MzQ9Uiahag9FRxThCHF4SjZUl4CicsD17OGMQqkQibNRTuKJTVg7nog/300?n=1"
+                }
+            ]
+        },
+		{
+            "tag": "English",
+            "list": [
+                {	
+                    "id": 21,
+                    "title": "每日好心情",
+                    "tag": "English",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "topTag": "英语",
+                    "img_url": "https://p.qpic.cn/music_cover/ibJJngZRP5m8ksRvDkGZxdZglplMZnRMNjPck0svbeBPQDsfJMg30TA/300?n=1"
+                }
+            ]
+        },
+		{
+            "tag": "Light music",
+            "list": [
+                {	
+                    "id": 22,
+                    "title": "每日好心情",
+                    "tag": "Light music",
+                    "topTag": "轻音乐",
+                    "dissname": "每日好心情,每天都是晴天",
+                    "img_url": "https://p.qpic.cn/music_cover/hKFribMhwH4ClwNWJxicuCxvNd4IKt5vibfHlUOBdxI8PcBM7LSIqwfVg/300?n=1"
+                }  
+            ]
+        }
+    ]
+}

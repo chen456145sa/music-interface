@@ -3,86 +3,77 @@
 	"status": "0",
 	"list": [
 		{	
-			"id": 0,
-			"creator": {
-				"name": "每日好心情"
-			},
+            "id": 0,
+            "title": "每日好心情",
 			"tag": "peaceful",
-			"dissname": "每日好心情,每天都是晴天",
+			"topTag": "安静",
+			"dissname": "每日好心情,每天都是晴天每日好心情...",
 			"img_url": "https://p.qpic.cn/music_cover/3MLTH2k3HibTypyQfrdDcnGebkBvAbETgYfDfSXIQXQq0vibiauWnP1Fg/300?n=1"
 		},
 		{	
-			"id": 1,
-			"creator": {
-				"name": "每日好心情"
-			},
+            "id": 1,
+            "title": "每日好心情",
 			"tag": "happy",
+			"topTag": "欢快",
 			"dissname": "每日好心情,每天都是晴天",
 			"img_url": "https://p.qpic.cn/music_cover/AhbCa0vazSRDjEJhYwthgoToe6yhj7xOVRzxZkJiaUjMT42sEkJmGFw/300?n=1"
 		},
 		{	
-			"id": 2,
-			"creator": {
-				"name": "每日好心情"
-			},
+            "id": 2,
+            "title": "每日好心情",
 			"tag": "happy",
+			"topTag": "欢快",
 			"dissname": "每日好心情,每天都是晴天",
 			"img_url": "https://p.qpic.cn/music_cover/uhSxlsl3fqqg4UU0gDHpNMJhx8VwNgIYnjc5Lsa3aYbwculfria5LgQ/300?n=1"
 		},
 		{	
-			"id": 3,
-			"creator": {
-				"name": "每日好心情"
-			},
+            "id": 3,
+            "title": "每日好心情",
 			"tag": "popular",
+			"topTag": "流行",
 			"dissname": "每日好心情,每天都是晴天",
 			"img_url": "https://p.qpic.cn/music_cover/z1MicRcDUdcmeA9DNokh2N3l84Y8ajulHIgBkbLQXx5qQD7VrEn1jdQ/300?n=1"
 		},
 		{	
-			"id": 4,
-			"creator": {
-				"name": "每日好心情"
-			},
+            "id": 4,
+            "title": "每日好心情",
 			"tag": "Electric sound",
+			"topTag": "电音",
 			"dissname": "每日好心情,每天都是晴天",
 			"img_url": "https://p.qpic.cn/music_cover/D6A26HZDLQ0qFLlibkWzpjj9P943uOBuPibOgV2UpVQNL7EmSBgFKX7w/300?n=1"
 		},
 		{	
-			"id": 5,
-			"creator": {
-				"name": "每日好心情"
-			},
+            "id": 5,
+            "title": "每日好心情",
 			"tag": "Japanese",
+			"topTag": "日语",
 			"dissname": "每日好心情,每天都是晴天",
 			"img_url": "https://p.qpic.cn/music_cover/G8MzQ9Uiahag9FRxThCHF4SjZUl4CicsD17OGMQqkQibNRTuKJTVg7nog/300?n=1"
 		},
 		{	
-			"id": 6,
-			"creator": {
-				"name": "每日好心情"
-			},
+            "id": 6,
+            "title": "每日好心情",
 			"tag": "English",
 			"dissname": "每日好心情,每天都是晴天",
+			"topTag": "英语",
 			"img_url": "https://p.qpic.cn/music_cover/ibJJngZRP5m8ksRvDkGZxdZglplMZnRMNjPck0svbeBPQDsfJMg30TA/300?n=1"
 		},
 		{	
-			"id": 7,
-			"creator": {
-				"name": "每日好心情"
-			},
+            "id": 7,
+            "title": "每日好心情",
 			"tag": "peaceful",
+			"topTag": "安静",
 			"dissname": "每日好心情,每天都是晴天",
 			"img_url": "https://p.qpic.cn/music_cover/NawV4ZPN5YIfVgAjVD75JmRjgQghiaUqia6kCOEriaWdVuNpQIkGUH0Pw/300?n=1"
 		},
 		{	
-			"id": 8,
-			"creator": {
-				"name": "每日好心情"
-			},
+            "id": 8,
+            "title": "每日好心情",
 			"tag": "Light music",
+			"topTag": "轻音乐",
 			"dissname": "每日好心情,每天都是晴天",
 			"img_url": "https://p.qpic.cn/music_cover/hKFribMhwH4ClwNWJxicuCxvNd4IKt5vibfHlUOBdxI8PcBM7LSIqwfVg/300?n=1"
-		}
+		}  
 		
 	]
 }
