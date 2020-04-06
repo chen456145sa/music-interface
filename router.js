@@ -54,4 +54,6 @@ router.get('/collection/:id',service.getSongById);
 
 router.get('/recommend/getRecList',service.getRecList);
 
+router.get('/recommend/getRecListSong/:id',service.getRecListSong);
+
 module.exports = router;

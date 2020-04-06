@@ -18,6 +18,7 @@ const category = require('./data/category.json');
 const categorySongs = require('./data/categorySongs.json');
 const hotkey = require('./data/hotkey.json');
 const reclist = require('./data/reclist.json');
+const reclistSong = require('./data/reclistSong.json');
 const path =require('path');
 const fs = require('fs');
 
@@ -271,14 +272,13 @@ exports.getSongById = function(req,res) {
 		}
 	});
 	res.jsonp(song);
-
 }
 
 exports.getRecList =function(req,res) {
 	let number = req.query.number;
 	let tagGroup = req.query.tagGroup;
 	let recArray = [];
-	console.log(tagGroup)
+	// console.log(tagGroup)
 	// var rectemp = [...reclist.list];
 	let rectemp = JSON.parse(JSON.stringify(reclist.list))  //数组复制（引用地址不同）
 	rectemp.forEach((item,index)=> {
@@ -295,6 +295,17 @@ exports.getRecList =function(req,res) {
 			// console.log(item.list)
 		}
 	})
-	console.log(recArray)
+	// console.log(recArray)
 	res.jsonp(recArray);
+}
+
+exports.getRecListSong = function(req,res) {
+	let id = req.params.id;
+	let list = [];
+	reclistSong.songlist.forEach(element => {
+		if(element.id == id) {
+			list.push(element)
+		}
+	});
+	res.jsonp(list);
 }
