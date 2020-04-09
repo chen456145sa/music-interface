@@ -27,8 +27,10 @@ const db = require('./db.js');
 //     console.log(result);
 // });
 // 查询操作
-let sql = 'select * from books where id = ?';
-let data = [2];
+// let sql = 'select * from books where id = ?';
+let sql = 'INSERT INTO taglist(Id,tag,val) VALUES(?,?)';
+// let data = [2]; //表示？的东西
+let data = null; //表示？的东西
 db.base(sql,data,(result)=>{
-    console.log(result[0].name);
+    console.log(result[0]);
 });

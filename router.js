@@ -56,4 +56,7 @@ router.get('/recommend/getRecList',service.getRecList);
 
 router.get('/recommend/getRecListSong/:id',service.getRecListSong);
 
+router.get('/recommend/saveTag',service.saveTag);
+
+router.get('/recommend/getTag',service.getTag);
 module.exports = router;

@@ -22,6 +22,8 @@ const reclistSong = require('./data/reclistSong.json');
 const path =require('path');
 const fs = require('fs');
 
+const db = require('./db.js');
+
 
 //app.get('/', (req, res)=> {
 //	//res.sendFile(__dirname + '/' +'interface.html');
@@ -309,3 +311,55 @@ exports.getRecListSong = function(req,res) {
 	});
 	res.jsonp(list);
 }
+
+exports.saveTag = function(req,res) {   //插入数据库
+	// let id = req.query.id;
+	let tag = req.query.tag;
+
+	// let sql = 'INSERT INTO taglist(Id,tag,val) VALUES(?,?,?)';
+	let sql = 'SELECT * FROM mytag.taglist where tag = ?';
+	// let data = [2]; //表示？的东西
+	let data = tag; //表示？的东西
+	db.base(sql,data,(result)=>{
+		console.log(result[0]);
+		if(result[0] !== undefined) {
+			console.log('值需要增加')
+			let modSql = 'UPDATE mytag.taglist SET val = ? WHERE Id = ?';
+			let newVal = result[0].val+1;
+			let modSqlParams = [ newVal, result[0].id];
+
+			db.base(modSql,modSqlParams,(result)=>{
+				// console.log(result);
+				console.log('增加成功')
+			});
+
+
+		}else {
+			console.log('插入新对象')
+			let addSql = 'INSERT INTO mytag.taglist(tag,val) VALUES(?,?)';
+			let addSqlParams = [ tag , 1 ];
+			db.base(addSql,addSqlParams,(result)=>{
+				// console.log(result);
+				console.log('插入成功')
+			});
+
+		}
+	});
+
+	res.jsonp(['tag收到']);
+}
+
+exports.getTag = function(req,res) {
+	let sql = 'SELECT * FROM mytag.taglist';
+	let data = null;
+	// let arr = [] 
+	db.base(sql,data,(result)=>{
+		console.log(result);
+		console.log('查询成功')
+		// arr = [...result]
+		res.jsonp(result);
+	});
+	// console.log(arr)
+	
+}
+
