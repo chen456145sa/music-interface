@@ -41,6 +41,10 @@ app.use(router);
 
 //启动服务器功能
 //监听端口
-var server = app.listen(8888, function(){
+
+
+var server = app.listen(8888, '192.168.43.171', function(){
+  global.listenIp = '192.168.43.171:8888';
+  console.log(global.listenIp)
 	console.log("running...");
 })

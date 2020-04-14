@@ -4,37 +4,37 @@
 	"message": [
 			{
 				"id": "0",
-				"img_url": "http://localhost:8888/public/bannerImages/l1.jpg"
+				"img_url": "http://192.168.43.171:8888/public/bannerImages/l1.jpg"
 			},
 			{
 				"id": "1",
-				"img_url": "http://localhost:8888/public/bannerImages/l2.jpg"
+				"img_url": "http://192.168.43.171:8888/public/bannerImages/l2.jpg"
 			},
 			{
 				"id": "2",
-				"img_url": "http://localhost:8888/public/bannerImages/l3.jpg"
+				"img_url": "http://192.168.43.171:8888/public/bannerImages/l3.jpg"
 
             },
             {
 				"id": "3",
-				"img_url": "http://localhost:8888/public/bannerImages/l4.jpg"
+				"img_url": "http://192.168.43.171:8888/public/bannerImages/l4.jpg"
             },
             {
 				"id": "4",
-				"img_url": "http://localhost:8888/public/bannerImages/l5.jpg"
+				"img_url": "http://192.168.43.171:8888/public/bannerImages/l5.jpg"
 			},
 			{
 				"id": "5",
-				"img_url": "http://localhost:8888/public/bannerImages/l6.jpg"
+				"img_url": "http://192.168.43.171:8888/public/bannerImages/l6.jpg"
 			},
 			{
 				"id": "6",
-				"img_url": "http://localhost:8888/public/bannerImages/l7.jpg"
+				"img_url": "http://192.168.43.171:8888/public/bannerImages/l7.jpg"
 
             },
             {
 				"id": "7",
-				"img_url": "http://localhost:8888/public/bannerImages/l8.jpg"
+				"img_url": "http://192.168.43.171:8888/public/bannerImages/l8.jpg"
 			}
 
 	]

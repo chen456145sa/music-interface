@@ -13,8 +13,8 @@
                    "song_id": "12",
                    "song_name": "倒数",
                    "singer_name": "邓紫棋",
-                   "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                   "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                   "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                   "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                    "songlrc": "倒数.txt"
                },
                {
@@ -22,8 +22,8 @@
                    "song_id": "13",
                    "song_name": "光年之外",
                    "singer_name": "邓紫棋",
-                   "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                   "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                   "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                   "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                    "songlrc": "光年之外.txt"
                },
                {
@@ -31,8 +31,8 @@
                    "song_id": "14",
                    "song_name": "来自天堂的魔鬼",
                    "singer_name": "邓紫棋",
-                   "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                   "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                   "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                   "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                    "songlrc": "来自天堂的魔鬼.txt"
                },
                {
@@ -40,8 +40,8 @@
                     "song_id": "12",
                     "song_name": "倒数",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "倒数.txt"
                 },
                 {
@@ -49,8 +49,8 @@
                     "song_id": "13",
                     "song_name": "光年之外",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "光年之外.txt"
                 },
                 {
@@ -58,8 +58,8 @@
                     "song_id": "14",
                     "song_name": "来自天堂的魔鬼",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "来自天堂的魔鬼.txt"
                 },
                 {
@@ -67,8 +67,8 @@
                     "song_id": "12",
                     "song_name": "倒数",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "倒数.txt"
                 },
                 {
@@ -76,8 +76,8 @@
                     "song_id": "13",
                     "song_name": "光年之外",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "光年之外.txt"
                 },
                 {
@@ -85,8 +85,8 @@
                     "song_id": "14",
                     "song_name": "来自天堂的魔鬼",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "来自天堂的魔鬼.txt"
                 }
            ]
@@ -104,8 +104,8 @@
                     "song_id": "12",
                     "song_name": "倒数",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "倒数.txt"
                 },
                 {
@@ -113,8 +113,8 @@
                     "song_id": "13",
                     "song_name": "光年之外",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "光年之外.txt"
                 },
                 {
@@ -122,8 +122,8 @@
                     "song_id": "14",
                     "song_name": "来自天堂的魔鬼",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "来自天堂的魔鬼.txt"
                 },
                 {
@@ -131,8 +131,8 @@
                      "song_id": "12",
                      "song_name": "倒数",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "倒数.txt"
                  },
                  {
@@ -140,8 +140,8 @@
                      "song_id": "13",
                      "song_name": "光年之外",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "光年之外.txt"
                  },
                  {
@@ -149,8 +149,8 @@
                      "song_id": "14",
                      "song_name": "来自天堂的魔鬼",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "来自天堂的魔鬼.txt"
                  },
                  {
@@ -158,8 +158,8 @@
                      "song_id": "12",
                      "song_name": "倒数",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "倒数.txt"
                  },
                  {
@@ -167,8 +167,8 @@
                      "song_id": "13",
                      "song_name": "光年之外",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "光年之外.txt"
                  },
                  {
@@ -176,8 +176,8 @@
                      "song_id": "14",
                      "song_name": "来自天堂的魔鬼",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "来自天堂的魔鬼.txt"
                  }
             ]
@@ -195,8 +195,8 @@
                     "song_id": "12",
                     "song_name": "倒数",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "倒数.txt"
                 },
                 {
@@ -204,8 +204,8 @@
                     "song_id": "13",
                     "song_name": "光年之外",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "光年之外.txt"
                 },
                 {
@@ -213,8 +213,8 @@
                     "song_id": "14",
                     "song_name": "来自天堂的魔鬼",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "来自天堂的魔鬼.txt"
                 },
                 {
@@ -222,8 +222,8 @@
                      "song_id": "12",
                      "song_name": "倒数",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "倒数.txt"
                  },
                  {
@@ -231,8 +231,8 @@
                      "song_id": "13",
                      "song_name": "光年之外",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "光年之外.txt"
                  },
                  {
@@ -240,8 +240,8 @@
                      "song_id": "14",
                      "song_name": "来自天堂的魔鬼",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "来自天堂的魔鬼.txt"
                  },
                  {
@@ -249,8 +249,8 @@
                      "song_id": "12",
                      "song_name": "倒数",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "倒数.txt"
                  },
                  {
@@ -258,8 +258,8 @@
                      "song_id": "13",
                      "song_name": "光年之外",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "光年之外.txt"
                  },
                  {
@@ -267,8 +267,8 @@
                      "song_id": "14",
                      "song_name": "来自天堂的魔鬼",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "来自天堂的魔鬼.txt"
                  }
             ]
@@ -286,8 +286,8 @@
                     "song_id": "12",
                     "song_name": "倒数",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "倒数.txt"
                 },
                 {
@@ -295,8 +295,8 @@
                     "song_id": "13",
                     "song_name": "光年之外",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "光年之外.txt"
                 },
                 {
@@ -304,8 +304,8 @@
                     "song_id": "14",
                     "song_name": "来自天堂的魔鬼",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "来自天堂的魔鬼.txt"
                 },
                 {
@@ -313,8 +313,8 @@
                      "song_id": "12",
                      "song_name": "倒数",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "倒数.txt"
                  },
                  {
@@ -322,8 +322,8 @@
                      "song_id": "13",
                      "song_name": "光年之外",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "光年之外.txt"
                  },
                  {
@@ -331,8 +331,8 @@
                      "song_id": "14",
                      "song_name": "来自天堂的魔鬼",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "来自天堂的魔鬼.txt"
                  },
                  {
@@ -340,8 +340,8 @@
                      "song_id": "12",
                      "song_name": "倒数",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "倒数.txt"
                  },
                  {
@@ -349,8 +349,8 @@
                      "song_id": "13",
                      "song_name": "光年之外",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "光年之外.txt"
                  },
                  {
@@ -358,8 +358,8 @@
                      "song_id": "14",
                      "song_name": "来自天堂的魔鬼",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "来自天堂的魔鬼.txt"
                  }
             ]
@@ -377,8 +377,8 @@
                     "song_id": "12",
                     "song_name": "倒数",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "倒数.txt"
                 },
                 {
@@ -386,8 +386,8 @@
                     "song_id": "13",
                     "song_name": "光年之外",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "光年之外.txt"
                 },
                 {
@@ -395,8 +395,8 @@
                     "song_id": "14",
                     "song_name": "来自天堂的魔鬼",
                     "singer_name": "邓紫棋",
-                    "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                    "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                    "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                    "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                     "songlrc": "来自天堂的魔鬼.txt"
                 },
                 {
@@ -404,8 +404,8 @@
                      "song_id": "12",
                      "song_name": "倒数",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "倒数.txt"
                  },
                  {
@@ -413,8 +413,8 @@
                      "song_id": "13",
                      "song_name": "光年之外",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "光年之外.txt"
                  },
                  {
@@ -422,8 +422,8 @@
                      "song_id": "14",
                      "song_name": "来自天堂的魔鬼",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "来自天堂的魔鬼.txt"
                  },
                  {
@@ -431,8 +431,8 @@
                      "song_id": "12",
                      "song_name": "倒数",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/倒数.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/倒数.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "倒数.txt"
                  },
                  {
@@ -440,8 +440,8 @@
                      "song_id": "13",
                      "song_name": "光年之外",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/光年之外.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/光年之外.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "光年之外.txt"
                  },
                  {
@@ -449,8 +449,8 @@
                      "song_id": "14",
                      "song_name": "来自天堂的魔鬼",
                      "singer_name": "邓紫棋",
-                     "song_url": "http://localhost:8888/public/songs/来自天堂的魔鬼.mp3",
-                     "photo": "http://localhost:8888/public/singerImages/dzq.jpg",
+                     "song_url": "http://192.168.43.171:8888/public/songs/来自天堂的魔鬼.mp3",
+                     "photo": "http://192.168.43.171:8888/public/singerImages/dzq.jpg",
                      "songlrc": "来自天堂的魔鬼.txt"
                  }
             ]
