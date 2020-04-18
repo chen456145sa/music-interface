@@ -331,6 +331,8 @@ exports.saveTag = function(req,res) {   //插入数据库
 			db.base(modSql,modSqlParams,(result)=>{
 				// console.log(result);
 				console.log('增加成功')
+				// res.jsonp(['tag值增加成功']);
+				// return
 			});
 
 
@@ -341,6 +343,8 @@ exports.saveTag = function(req,res) {   //插入数据库
 			db.base(addSql,addSqlParams,(result)=>{
 				// console.log(result);
 				console.log('插入成功')
+				// res.jsonp(['tag插入成功']);
+				// return
 			});
 
 		}
@@ -352,6 +356,64 @@ exports.saveTag = function(req,res) {   //插入数据库
 exports.getTag = function(req,res) {
 	let sql = 'SELECT * FROM mytag.taglist';
 	let data = null;
+	// let arr = [] 
+	db.base(sql,data,(result)=>{
+		console.log(result);
+		console.log('查询成功')
+		// arr = [...result]
+		res.jsonp(result);
+	});
+	// console.log(arr)
+	
+}
+
+
+exports.saveSearch = function(req,res) {   //插入数据库
+	// let id = req.query.id;
+	let query = req.query.query;
+
+	// let sql = 'INSERT INTO taglist(Id,tag,val) VALUES(?,?,?)';
+	let sql = 'SELECT * FROM mytag.hotkey where query = ?';
+	// let data = [2]; //表示？的东西
+	let data = query; //表示？的东西
+	db.base(sql,data,(result)=>{
+		console.log(result[0]);
+		if(result[0] !== undefined) {
+			console.log('值需要增加')
+			let modSql = 'UPDATE mytag.hotkey SET num = ? WHERE query = ?';
+			let newVal = result[0].num+1;
+			let modSqlParams = [ newVal, result[0].query];
+
+			db.base(modSql,modSqlParams,(result)=>{
+				// console.log(result);
+				console.log('增加成功')
+				// res.jsonp(['hotkey值增加成功']);
+				// return
+			});
+
+
+		}else {
+			console.log('插入新对象')
+			let addSql = 'INSERT INTO mytag.hotkey(query,num) VALUES(?,?)';
+			let addSqlParams = [ query , 1 ];
+			db.base(addSql,addSqlParams,(result)=>{
+				// console.log(result);
+				console.log('插入成功')
+				// res.jsonp(['hotkey插入成功']);
+				// return
+			});
+
+		}
+	});
+
+	res.jsonp(['query收到']);
+}
+
+//select * from (select * from mytag.hotkey  order by num DESC)  as t limit 0,5;
+exports.getSearch = function(req,res) {
+	let num = req.query.num
+	let sql = 'select * from (select * from mytag.hotkey  order by num DESC)  as t limit 0,?;'
+	let data = parseInt(num);
 	// let arr = [] 
 	db.base(sql,data,(result)=>{
 		console.log(result);

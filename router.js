@@ -60,4 +60,8 @@ router.get('/recommend/saveTag',service.saveTag);
 
 router.get('/recommend/getTag',service.getTag);
 
+router.get('/search/saveSearch',service.saveSearch);
+
+router.get('/search/getSearch',service.getSearch);
+
 module.exports = router;
