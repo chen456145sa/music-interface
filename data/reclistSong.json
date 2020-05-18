@@ -149,6 +149,431 @@
                 "songlrc": "彩虹.txt"
             }
         ]
+     },
+     {
+        "id": 6,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 7,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 8,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 9,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 10,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 11,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 12,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 13,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 14,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 15,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 16,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 17,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 18,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 19,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 20,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 21,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
+     },
+     {
+        "id": 22,
+        "songs": [
+            {
+                "singer_id": 4558,
+                "song_id": "18",
+                "song_name": "稻香",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/稻香.mp3",
+                "album": "摩羯座",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "稻香.txt"
+            },
+            {
+                "singer_id": 4558,
+                "song_id": "19",
+                "song_name": "彩虹",
+                "singer_name": "周杰伦",
+                "song_url": "http://192.168.43.171:8888/public/songs/彩虹.mp3",
+                "album": "我很忙",
+                "photo": "http://192.168.43.171:8888/public/singerImages/zjl.jpg",
+                "songlrc": "彩虹.txt"
+            }
+        ]
      }
 
  ]   
